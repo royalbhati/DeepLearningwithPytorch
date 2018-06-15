@@ -1,4 +1,4 @@
-#                                  DeepLearningwithPytorch
+#                                                 Deep Learning with
 <p align="center"><img width="40%" src="logo.svg" /></p>
 
 --------------------------------------------------------------------------------
