@@ -1,4 +1,4 @@
-#                                                 Deep Learning with
+#  <p align="center">Deep Learning with</p>
 <p align="center"><img width="40%" src="logo.svg" /></p>
 
 --------------------------------------------------------------------------------
